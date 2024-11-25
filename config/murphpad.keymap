@@ -79,5 +79,16 @@
 
             sensor-bindings = <&inc_dec_kp PG_UP PG_DN &inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
+
+        layer_2 {
+            bindings = <
+&trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans
+            >;
+        };
     };
 };
