@@ -19,5 +19,5 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: murphpad nice_view_adapter nice_view
+    shield: murphpad #nice_view_adapter nice_view
      
